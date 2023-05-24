@@ -15,7 +15,7 @@ Below are the themes that are directly from the original version.
 ## Installation
 
 ```VimL
-Plug 'k4yt3x/ayu-vim-darker' " or other package manager
+Plug 'k4yt3x/ayu-vim-darker-tree-sitter' " or other package manager
 "...
 set termguicolors     " enable true colors support
 let ayucolor="light"  " for light version of theme
