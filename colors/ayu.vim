@@ -14,7 +14,7 @@ let g:colors_name = "ayu"
 
 let s:palette = {}
 
-let s:palette.bg        = {'darker': "#080808",  'dark': "#0F1419",  'light': "#FAFAFA",  'mirage': "#212733"}
+let s:palette.bg        = {'darker': "#000000",  'dark': "#0F1419",  'light': "#FAFAFA",  'mirage': "#212733"}
 
 let s:palette.comment   = {'darker': "#5C6773",  'dark': "#5C6773",  'light': "#ABB0B6",  'mirage': "#5C6773"}
 let s:palette.markup    = {'darker': "#F07178",  'dark': "#F07178",  'light': "#F07178",  'mirage': "#F07178"}
